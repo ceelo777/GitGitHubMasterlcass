@@ -1,0 +1,37 @@
+[{
+  "file": "/home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/Comments/main.cpp",
+  "directory": "/home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/Comments",
+  "command": "clang  -c /home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/Comments/main.cpp -o /home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/Comments/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/ModifiedProgram/main.cpp",
+  "directory": "/home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/ModifiedProgram",
+  "command": "clang  -c /home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/ModifiedProgram/main.cpp -o /home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/ModifiedProgram/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/SectionChallenge/main.cpp",
+  "directory": "/home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/SectionChallenge",
+  "command": "clang  -c /home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/SectionChallenge/main.cpp -o /home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/SectionChallenge/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/Project1/main.cpp",
+  "directory": "/home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/Project1",
+  "command": "clang  -c /home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/Project1/main.cpp -o /home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/Project1/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/LinkerError/main.cpp",
+  "directory": "/home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/LinkerError",
+  "command": "clang  -c /home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/LinkerError/main.cpp -o /home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/LinkerError/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/FirstProgram/main.cpp",
+  "directory": "/home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/FirstProgram",
+  "command": "clang  -c /home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/FirstProgram/main.cpp -o /home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/FirstProgram/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/Project2/main.cpp",
+  "directory": "/home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/Project2",
+  "command": "clang  -c /home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/Project2/main.cpp -o /home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/Project2/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/CompilerWarnings/main.cpp",
+  "directory": "/home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/CompilerWarnings",
+  "command": "clang  -c /home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/CompilerWarnings/main.cpp -o /home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/CompilerWarnings/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/CompilerErrors/main.cpp",
+  "directory": "/home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/CompilerErrors",
+  "command": "clang  -c /home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/CompilerErrors/main.cpp -o /home/ceelo777/Desktop/Udemy/CPPWorkspace/Section4/CompilerErrors/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }]

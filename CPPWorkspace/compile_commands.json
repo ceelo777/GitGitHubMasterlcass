@@ -1,0 +1,13 @@
+[{
+  "file": "/home/ceelo777/Desktop/CPPWorkspace/Test1/main.cpp",
+  "directory": "/home/ceelo777/Desktop/CPPWorkspace/Test1",
+  "command": "clang  -c /home/ceelo777/Desktop/CPPWorkspace/Test1/main.cpp -o /home/ceelo777/Desktop/CPPWorkspace/Test1/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/ceelo777/Desktop/CPPWorkspace/Project1/main.cpp",
+  "directory": "/home/ceelo777/Desktop/CPPWorkspace/Project1",
+  "command": "clang  -c /home/ceelo777/Desktop/CPPWorkspace/Project1/main.cpp -o /home/ceelo777/Desktop/CPPWorkspace/Project1/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/ceelo777/Desktop/CPPWorkspace/Sample/main.cpp",
+  "directory": "/home/ceelo777/Desktop/CPPWorkspace/Sample",
+  "command": "clang  -c /home/ceelo777/Desktop/CPPWorkspace/Sample/main.cpp -o /home/ceelo777/Desktop/CPPWorkspace/Sample/main.cpp.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++17  -Wall  -g  -O0  -Wall"
+ }]
